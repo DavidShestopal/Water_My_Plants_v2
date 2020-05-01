@@ -219,11 +219,9 @@ data schema:
 ```json
 {
   "id": 1,
-  "common_name": "ficus",
-  "scientific_name": "ficus benjamina",
-  "h2o_frequency": 3.5,
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ficus_benjamina2.jpg/800px-Ficus_benjamina2.jpg",
-  "image_binary": "binary"
+  "common_name": "rose",
+  "scientific_name": "rosa",
+  "h2o_frequency": 3.5
 }
 ```
 
@@ -246,7 +244,7 @@ data schema:
 ```json
 {
   "id": 1,
-  "nickname": "Steve II",
+  "nickname": "freddie",
   "species_id": 1,
   "location": "bedroom",
   "user_id": 1
@@ -270,8 +268,8 @@ data schema:
 ```json
 {
   "id": 1,
-  "common_name": "updated ficus",
-  "scientific_name": "updated ficus benjamina",
+  "common_name": "updated rose",
+  "scientific_name": "updated rosa",
   "h2o_frequency": 0.5
 }
 ```
