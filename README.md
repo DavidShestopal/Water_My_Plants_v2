@@ -1,12 +1,14 @@
 # Water_My_Plants_v2
 
+## base url: https://water-my-plants-v2.herokuapp.com/
+
 ### Data Schemas
 
-# currently running on local host 4000
+#### currently running on local host 4000
 
-# for users use localhost:/api/users/
+#### for users use localhost:/api/users/
 
-# for plants use localhost:/api/plants/
+#### for plants use localhost:/api/plants/
 
 user:
 
